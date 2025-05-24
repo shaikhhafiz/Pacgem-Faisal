@@ -612,8 +612,6 @@ button:focus:not(:focus-visible) {
 -----------------------------------------*/
 .site-footer {
   background: var(--footer-bg-color);
-  padding-top: 100px;
-  padding-bottom: 100px;
 }
 
 .site-footer-bottom {
